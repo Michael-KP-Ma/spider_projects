@@ -1,3 +1,3 @@
 # spider_projects
-爬虫项目
--1 瞎买网(https://xiamai.net/index.php?r=nine)9快9元包邮专区全部推荐商品爬取
+爬虫项目：瞎买网9快9元包邮专区(https://xiamai.net/index.php?r=nine)全部推荐商品爬取
+-1. 使用scrapy框架
